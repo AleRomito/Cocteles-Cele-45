@@ -20,9 +20,11 @@
         display: flex;
         align-items: center;
         justify-content: center;
+        z-index: 2;
     }
     footer p{
         margin: 0;
+        font-size: 14px;
     }
     p{
         color: blanchedalmond;
